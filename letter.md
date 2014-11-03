@@ -1,0 +1,13 @@
+<link href="stylesheets/GitHub2.css" rel="stylesheet"></link>
+
+# Getting Around in 2054 Pittsburgh
+
+Flying cars! Whenever anyone talks about the state of transportation, they always say "where's my flying car?" Sorry, not yet. Maybe not ever. But I think they ought to focus a little more on what's going right here in Pittsburgh, instead of what's going wrong.
+
+First is the buses. I can't believe they managed to save the bus system back in the Great Recession of the 2010s, but I'm glad they did. You saw how it played out in Miami: great city, lost their buses, just became impossible to live there. Everyone that could moved to Atlanta; the poverty that was left in the city just started its downward spiral. Well, that plus the fact that half the land just vanished, thanks to rising oceans. Anyway, Pittsburgh. Yeah, it was lean for a few years, but the buses kept running. Then those new FuelCellBuses in the 40s: I was skeptical of them too. How's a bus that's half the size going to work in a bustling city like Pittsburgh? But they're saving enough on fuel that they can run twice as many of them. They're amazing. I never thought we could have decent transport in the East End, especially given the inability to have a proper subway.
+
+Speaking of which, I rode that new West Line of the T for the first time last week, and it is slick. Course, property values have been shooting up all along it now. Every stop, there's a Scotch bar and a body-mod parlor. Hipsters, huh?
+
+I used to live in hipsterville. I remember when my friends were so jealous of my new loft in the Strip District because I could walk to work downtown. And now everyone walks to work! Of course, I didn't realize that the business-consulting hub would be in Squirrel Hill. My mistake; my commute stopped being so easy. I biked for a while, but that got harder as my joints got older. I traded my drop-bar road bike for a nice Amsterdam-style city bike, and then traded that for an electric-assist. Guess I'm a little old fashioned to keep riding that, but I still like the feel of pedaling. All these new gadgets, you're weaving or bouncing or doing all sorts of calisthenics to get up a hill. I never got used to them.
+
+Luckily, the electric motor keeps getting better. It's kept me going for now, but I know someday I'll have to hang that up too. Thank goodness it's not the way it was when my grandparents got old. I can have a driver here in a minute, and I've heard those self-driving cars will even get here soon. It's a good thing; even the buses can be hard to ride sometimes. You'd think someday they'd finally figure out a way to fix these potholes...

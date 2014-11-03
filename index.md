@@ -29,6 +29,11 @@ Some people cannot live centrally, because the size of the core city is fixed by
 - Self-driving cars have traveled thousands of miles with zero accidents, but those cars are also seeing difficulties that they may not be able to overcome [[2][]]. 
 - Buses are losing funding.
 
+## Decade by decade pathways
+<img src="images/pathways.png" />
+
+## [Letter from the future](letter.html)
+
 #### References linked throughout the page.
 
 [1]: http://www.smartcenterpittsburgh.com/new/electric
